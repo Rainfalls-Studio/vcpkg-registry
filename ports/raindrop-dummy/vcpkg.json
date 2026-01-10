@@ -1,0 +1,7 @@
+{
+  "name": "raindrop-dummy",
+  "version-semver": "0.1.0",
+  "desctiption": "Dummy port used to validate the Rainfall vcpkg registry pipeline.",
+  "homepage": "https://github.com/Rainfalls-Studio/Dummy.git",
+  "license": "MIT"
+}
